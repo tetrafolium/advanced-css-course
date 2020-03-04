@@ -1,12 +1,16 @@
 inspecode:
 
+  experimental:
+    ignore:
+    - Trillo/starter/css/style.css
+    - Trillo/final/css/style.css
+    - Natours/final-after-S06/css/style.css
+
   csscomb:
     auto-fix: true
     thresholds: { num-issues: 999 }
 
   csslint:
-    ignore:
-    - Natours/final-after-S06/css/style.css
     thresholds: { num-issues: 999 }
 
   fossology:
