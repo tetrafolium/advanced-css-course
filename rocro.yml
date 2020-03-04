@@ -1,10 +1,12 @@
-inspecpde:
+inspecode:
 
   csscomb:
     auto-fix: true
     thresholds: { num-issues: 999 }
 
   csslint:
+    ignore:
+    - Natours/final-after-S06/css/style.css
     thresholds: { num-issues: 999 }
 
   fossology:
