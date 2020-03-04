@@ -6,9 +6,13 @@ inspecode:
     - Trillo/final/css/style.css
     - Natours/final-after-S06/css/style.css
 
-  csscomb:
-    auto-fix: true
-    thresholds: { num-issues: 999 }
+  #---------------------------------------------------------
+  # (temporary) stop csscomb ... execution time too long.
+  #---------------------------------------------------------
+  #csscomb:
+  #  auto-fix: true
+  #  thresholds: { num-issues: 999 }
+  #---------------------------------------------------------
 
   csslint:
     options:
