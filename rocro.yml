@@ -11,6 +11,9 @@ inspecode:
     thresholds: { num-issues: 999 }
 
   csslint:
+    options:
+      --ignore:
+      - 'order-alphabetical'
     thresholds: { num-issues: 999 }
 
   fossology:
@@ -44,6 +47,9 @@ inspecode:
     thresholds: { num-issues: 999 }
 
   scss-lint:
+    options:
+      --exclude-linter:
+      - 'Indentation'
     thresholds: { num-issues: 999 }
 
   stylelint:
