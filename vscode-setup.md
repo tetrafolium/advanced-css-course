@@ -20,7 +20,7 @@ For each of the extensions, read the overview page in order to learn how to use 
 
 `Prettier` to automatically format code. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
-### Other extensions I use (will keep it updated) 
+### Other extensions I use (will keep it updated)
 
 `Project Manager` to easily switch between projects. One of the most useful extensions. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
 
