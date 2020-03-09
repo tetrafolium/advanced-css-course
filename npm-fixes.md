@@ -27,7 +27,7 @@ Then in the `package.json` file, add the following tasks:
 
 ### Solution 3
 
-If you're using VSCode, the defualt autosave setting is that it saves your file each time you stroke a key. This made me run into some errors in the videos. The fix is to change the autosave setting to `onFocusChange`. You can do so by copying the following instruction to the settings (panel on the right side):
+If you're using VSCode, the default autosave setting is that it saves your file each time you stroke a key. This made me run into some errors in the videos. The fix is to change the autosave setting to `onFocusChange`. You can do so by copying the following instruction to the settings (panel on the right side):
 
 `"files.autoSave": "onFocusChange"`
 
